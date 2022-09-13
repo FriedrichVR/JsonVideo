@@ -1,0 +1,21 @@
+{
+  "UserInfo": [
+    {
+      "UserId": "0",
+      "FirstName": "Jonathan", 
+      "Surname": "Bardwell",
+      "PlayerDesc": "Into VR development and creating games",
+      "MaxGold": "523",
+      "Team": "Red"
+    },
+
+    {
+      "UserId": "1",
+      "FirstName": "Terry", 
+      "Surname": "Smith",
+      "PlayerDesc": "Likes video games and loves spending money on hotdogs and mustard",
+      "MaxGold": "23",
+      "Team": "Blue"
+    }
+  ]
+}
